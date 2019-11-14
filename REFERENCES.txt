@@ -1,0 +1,4 @@
+(1) Automatic text summarization by local scoring and ranking for improving coherence
+P. Krishnaveni ; S. R. Balasundaram
+(2) https://sites.google.com/site/nirajatweb/home
+(3) 
